@@ -9,7 +9,7 @@ public class JNIDemo {
 		int [] a = {1, 2, 3}; 
 		int [] b = null;
 		int i;
-
+                int a;
 		/* 2. map java hello <-->c c_hello */
 
 		/* 3. call */
